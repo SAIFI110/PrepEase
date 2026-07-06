@@ -100,9 +100,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 3. AI features become available for the material.
 4. Students open Study Buddy to ask grounded questions.
 5. Teachers generate quizzes, assignments, or flashcards from the same material.
-# Git Practice
-
-This is Feature Login Branch.
+6. This is Feature Login Branch.
 
 ## Troubleshooting
 
